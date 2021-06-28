@@ -1,16 +1,16 @@
-.startButton {
-    text-align: center;
-    font-size: 2em;
-    color: white;
-    background-color: red;
-}
-
 .container {
     width: 80%;
     height: 600px;
     margin-left: 10%;
     background-color: black;
     overflow: hidden;
+}
+
+.startButton {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    background-color: red;
 }
 
 .myShip {
@@ -34,4 +34,4 @@
 
 .hide {
     display: none;
-} 
+}
